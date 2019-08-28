@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-notify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gatsby plugin that adds system notifications to your development build",
   "main": "index.js",
   "scripts": {
