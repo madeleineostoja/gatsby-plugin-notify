@@ -1,6 +1,6 @@
 # gatsby-plugin-notify
 
-Gatsby plugin that adds system notifications to your development build
+Gatsby plugin that adds system notifications to your development build, with [webpack-notifier](https://www.npmjs.com/package/webpack-notifier)
 
 ## Install
 
@@ -20,16 +20,8 @@ module.exports = {
 }
 ```
 
-You can also specify options
+You will receive a native notification when your development build breaks, and when it builds successfully again after a breakage.
 
-```js
-module.exports = {
-  plugins: [
-    {
-      resolve: 'gatsby-plugin-notify',
-      options: {
+---
 
-      }
-  ]
-}
-```
+Made with ❤️ by [Tomorrow](https://www.tomorrowstudio.co)
