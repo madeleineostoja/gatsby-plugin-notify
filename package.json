@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomrorrowstudio/gatsby-plugin-notify.git"
+    "url": "git+https://github.com/tomorrowstudio/gatsby-plugin-notify.git"
   },
   "keywords": [
     "gatsby",
@@ -19,9 +19,9 @@
   "author": "Tomorrow Studio &lt;sean@tomorrowstudio.co&gt;",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomrorrowstudio/gatsby-plugin-notify/issues"
+    "url": "https://github.com/tomorrowstudio/gatsby-plugin-notify/issues"
   },
-  "homepage": "https://github.com/tomrorrowstudio/gatsby-plugin-notify#readme",
+  "homepage": "https://github.com/tomorrowstudio/gatsby-plugin-notify#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.0",
