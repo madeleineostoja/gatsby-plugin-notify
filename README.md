@@ -1,6 +1,8 @@
 # gatsby-plugin-notify
 
-Gatsby plugin that adds system notifications to your development build, with [webpack-notifier](https://www.npmjs.com/package/webpack-notifier)
+[![npm](https://img.shields.io/npm/v/gatsby-plugin-notify) ![GitHub](https://img.shields.io/github/license/tomorrowstudio/gatsby-plugin-notify)](https://www.npmjs.com/package/gatsby-plugin-notify)
+
+Add system notifications to your Gatsby development builds
 
 ## Install
 
