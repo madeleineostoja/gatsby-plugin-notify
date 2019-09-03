@@ -1,6 +1,6 @@
 # gatsby-plugin-notify
 
-[![npm](https://img.shields.io/npm/v/gatsby-plugin-notify) ![GitHub](https://img.shields.io/github/license/tomorrowstudio/gatsby-plugin-notify)](https://www.npmjs.com/package/gatsby-plugin-notify)
+[![npm](https://img.shields.io/npm/v/gatsby-plugin-notify)](https://www.npmjs.com/package/gatsby-plugin-notify) ![GitHub](https://img.shields.io/github/license/tomorrowstudio/gatsby-plugin-notify)
 
 Add system notifications to your Gatsby development builds
 
