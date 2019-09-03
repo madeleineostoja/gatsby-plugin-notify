@@ -22,6 +22,21 @@ module.exports = {
 
 You will receive a native notification when your development build breaks, and when it builds successfully again after a breakage.
 
+The plugin accepts any options that can be passed to [webpack-notifier](https://github.com/Turbo87/webpack-notifier#configuration)
+
+
+```js
+module.exports = {
+  plugins: [
+    {
+      resolve: 'gatsby-plugin-notify',
+      options: {
+        title: 'My Site'
+      }
+  ]
+}
+```
+
 ---
 
 Made with ❤️ by [Tomorrow](https://www.tomorrowstudio.co)
