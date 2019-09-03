@@ -3,10 +3,13 @@
   "version": "0.1.2",
   "description": "Gatsby plugin that adds system notifications to your development build",
   "main": "index.js",
+  "files": [
+    "/*.js"
+  ],
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__",
     "prepare": "cross-env NODE_ENV=production npm run build",
-    "watch": "babel -w src --out-dir . --ignore **/__tests__"
+    "develop": "babel -w src --out-dir . --ignore **/__tests__"
   },
   "repository": {
     "type": "git",
