@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomorrowstudio/gatsby-plugin-notify.git"
+    "url": "git+https://github.com/seaneking/gatsby-plugin-notify.git"
   },
   "keywords": [
     "gatsby",
@@ -22,12 +22,12 @@
     "notifier",
     "webpack-notification"
   ],
-  "author": "Tomorrow Studio &lt;sean@tomorrowstudio.co&gt;",
+  "author": "Sean King",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomorrowstudio/gatsby-plugin-notify/issues"
+    "url": "https://github.com/seaneking/gatsby-plugin-notify/issues"
   },
-  "homepage": "https://github.com/tomorrowstudio/gatsby-plugin-notify#readme",
+  "homepage": "https://github.com/seaneking/gatsby-plugin-notify#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.0",
